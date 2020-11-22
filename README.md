@@ -1,3 +1,3 @@
 # git-practice-repository
 
-first commit on a forked repository!
+preparing a merged change from a branch!
