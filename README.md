@@ -1,3 +1,3 @@
 # git-practice-repository
 
-preparing a merged change from a branch!
+preparing a conflicted merged change from a branch!
